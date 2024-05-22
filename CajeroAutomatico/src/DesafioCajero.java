@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Desario {
+public class DesafioCajero {
 
     public static void main(String[] args) {
         String nombre = "Tony Stark";
